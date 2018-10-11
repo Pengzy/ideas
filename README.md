@@ -1,2 +1,2 @@
 # ideas
-Record a good idea for a  moment
+this just is a exercise about how to use the github.
